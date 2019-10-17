@@ -1,7 +1,8 @@
  //declare bacteria variables here   
  void setup()   
  {     
- 	//initialize bacteria variables here   
+ 	//initialize bacteria variables here
+  
  }   
  void draw()   
  {    
