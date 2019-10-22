@@ -29,7 +29,7 @@
 		myColor = color((int)(Math.random()*255), (int)(Math.random()*255), (int)(Math.random()*255));
  	}
  	void move() {
- 	    myX += Math.random() * 4 - 1;
+ 	    myX += Math.random() * 3 - 1;
  	    myY += Math.random() * 6 - 3;
  	}
  	void show() {
